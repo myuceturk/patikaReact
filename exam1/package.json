@@ -1,0 +1,15 @@
+{
+  "name": "get-data",
+  "version": "1.0.0",
+  "description": "patika exam1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "type" : "module",
+  "author": "Mecit Yücetürk",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
